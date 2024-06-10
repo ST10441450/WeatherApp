@@ -48,6 +48,10 @@ The app underwent a rigorous testing phase to ensure quality and performance:
 2. **Integration Testing:** Ensured that different modules and services worked seamlessly together.
 3. **System Testing:** Verified the complete and integrated software product to evaluate its compliance with the specified requirements.
 4. **User Acceptance Testing:** Conducted testing with real users to gather feedback and make necessary improvements.
+   ![Screenshot 2024-06-10 154549](https://github.com/ST10441450/WeatherApp/assets/160849581/c865c9ea-cd39-4247-8335-42b4c210db8a)
+
+   
+
 
 #### Future Enhancements
 To further improve the Weather App, several enhancements are planned for future updates:
